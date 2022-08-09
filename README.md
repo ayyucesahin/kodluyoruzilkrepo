@@ -25,6 +25,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+
 ![proje](https://raw.githubusercontent.com/ayyucesahin/kodluyoruzilkrepo/main/KODLUYORUZ_first.jpg)
 
 
